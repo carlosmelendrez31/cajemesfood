@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewData["Title"] = "usuarioviews";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container mt-5">
+<div class="row">
+<div class="col-md-4">
+    <div class="card">
+        <img src="@Url.Content("~/img/usuarios.jfif")" class="card-img-top" alt="Compras">
+        <div class="card-body">
+            <h5 class="card-title">Ingresar como usuario</h5>
+            <a class="btn btn-primary" asp-area="" asp-controller="Auth" asp-action="Login">Aqui</a>
+        </div>
+    </div>
+</div>
+
+<!-- Tercera columna -->
+<div class="col-md-4">
+    <div class="card">
+        <img src="@Url.Content("~/img/admin.jfif")" class="card-img-top" alt="Administrador">
+        <div class="card-body">
+            <h5 class="card-title">Ingresa como administrador </h5>
+            <a class="btn btn-primary" asp-area="" asp-controller="Admin" asp-action="Login">Aqui</a>
+        </div>
+    </div>
+</div>
+    </div>
+</div>

@@ -1,0 +1,22 @@
+﻿@model Adminmodel
+@{
+    ViewData["Title"] = "Eliminar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class=" card-header">Eliminar usuario</div>
+    <div class="card-body">
+        <form asp-action="Eliminaradmin" asp-controller="Admin" method="post">
+            <input asp-for="Matricula" type="hidden" class="form-control">
+            <div class="alert alert-danger" role="alert">
+                Desea eliminar el contacto : @Html.DisplayTextFor(m => m.Nombre)?
+            </div>
+
+
+            <button type="submit" class="btn btn-danger">ELIMINAR</button>
+            <a>Volver a la lista</a>
+
+        </form>
+    </div>
+</div>

@@ -1,0 +1,41 @@
+﻿@model List<carritomodel>
+
+@{
+    ViewData["Title"] = "Carrito de Compras";
+}
+
+<div class="container mt-4">
+    <h2>Carrito de Compras</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Producto</th>
+                <th>Precio</th>
+                <th>Cantidad</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Nombre</td>
+                    <td>@item.Precio</td>
+                    <td>@item.Cantidad</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="mt-4">
+        <form asp-action="ComprarTodo" method="post">
+            @for (int i = 0; i < Model.Count; i++)
+            {
+                <input type="hidden" name="carrito[@i].ProductId" value="@Model[i].ProductId" />
+                <input type="hidden" name="carrito[@i].Nombre" value="@Model[i].Nombre" />
+                <input type="hidden" name="carrito[@i].Precio" value="@Model[i].Precio" />
+                <input type="hidden" name="carrito[@i].Cantidad" value="@Model[i].Cantidad" />
+            }
+            <button type="submit" class="btn btn-success">Comprar Todo</button>
+        </form>
+    </div>
+</div>

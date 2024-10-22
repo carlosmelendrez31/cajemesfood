@@ -1,0 +1,173 @@
+﻿
+@model IEnumerable<comprarmodel>
+
+@{
+    ViewData["Title"] = "Lista de Productos";
+}
+
+<div class="container mt-4">
+    <h2>Lista de Productos</h2>
+    <div class="row">
+        
+        <div class="col-md-3 mb-3">
+            <div class="card">
+                <div class="card-body">
+                  
+                     <img src="@Url.Content("~/img/alitas de pollo.jpg")" class="card-img-top" alt="alitas">
+                    <h5 class="card-title">@Model.ElementAt(0).Nombre</h5>
+                    <p class="card-text">$@Model.ElementAt(0).Precio</p>
+                    <form asp-action="AñadirAlCarrito" method="post">
+                        <input type="hidden" name="productId" value="@Model.ElementAt(0).Id" />
+                        <input type="number" name="cantidad" value="1" min="1" class="form-control mb-2" />
+                        <button type="submit" class="btn btn-primary">Añadir al Carrito</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        @* Tarjeta 2 *@
+        <div class="col-md-3 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <img src="@Url.Content("~/img/bongles.jpeg")" class="card-img-top" alt="boneless">
+                    <h5 class="card-title">@Model.ElementAt(1).Nombre</h5>
+                    <p class="card-text">$@Model.ElementAt(1).Precio</p>
+                    <form asp-action="AñadirAlCarrito" method="post">
+                        <input type="hidden" name="productId" value="@Model.ElementAt(1).Id" />
+                        <input type="number" name="cantidad" value="1" min="1" class="form-control mb-2" />
+                        <button type="submit" class="btn btn-primary">Añadir al Carrito</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        @* Tarjeta 3 *@
+        <div class="col-md-3 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <img src="@Url.Content("~/img/carne asada.jpg")" class="card-img-top" alt="Tacos de carne asada">
+                    <h5 class="card-title">@Model.ElementAt(2).Nombre</h5>
+                    <p class="card-text">$@Model.ElementAt(2).Precio</p>
+                    <form asp-action="AñadirAlCarrito" method="post">
+                        <input type="hidden" name="productId" value="@Model.ElementAt(2).Id" />
+                        <input type="number" name="cantidad" value="1" min="1" class="form-control mb-2" />
+                        <button type="submit" class="btn btn-primary">Añadir al Carrito</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        @* Tarjeta 4 *@
+        <div class="col-md-3 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <img src="@Url.Content("~/img/desayuno.jpg")" class="card-img-top" alt="Desayuno">
+                    <h5 class="card-title">@Model.ElementAt(3).Nombre</h5>
+                    <p class="card-text">$@Model.ElementAt(3).Precio</p>
+                    <form asp-action="AñadirAlCarrito" method="post">
+                        <input type="hidden" name="productId" value="@Model.ElementAt(3).Id" />
+                        <input type="number" name="cantidad" value="1" min="1" class="form-control mb-2" />
+                        <button type="submit" class="btn btn-primary">Añadir al Carrito</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        @* Tarjeta 5 *@
+        <div class="col-md-3 mb-3">
+            <div class="card">
+                <div class="card-body">
+                     <img src="@Url.Content("~/img/pechuga de pollo.jpg")" class="card-img-top" alt="Pechuga de pollo">
+                    <h5 class="card-title">@Model.ElementAt(4).Nombre</h5>
+                    <p class="card-text">$@Model.ElementAt(4).Precio</p>
+                    <form asp-action="AñadirAlCarrito" method="post">
+                        <input type="hidden" name="productId" value="@Model.ElementAt(4).Id" />
+                        <input type="number" name="cantidad" value="1" min="1" class="form-control mb-2" />
+                        <button type="submit" class="btn btn-primary">Añadir al Carrito</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        @* Tarjeta 6 *@
+        <div class="col-md-3 mb-3">
+            <div class="card">
+                <div class="card-body">
+                 <img src="@Url.Content("~/img/pizza.jpg")" class="card-img-top" alt="Pizza">
+                    <h5 class="card-title">@Model.ElementAt(5).Nombre</h5>
+                    <p class="card-text">$@Model.ElementAt(5).Precio</p>
+                    <form asp-action="AñadirAlCarrito" method="post">
+                        <input type="hidden" name="productId" value="@Model.ElementAt(5).Id" />
+                        <input type="number" name="cantidad" value="1" min="1" class="form-control mb-2" />
+                        <button type="submit" class="btn btn-primary">Añadir al Carrito</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        @* Tarjeta 7 *@
+        <div class="col-md-3 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <img src="@Url.Content("~/img/quezabirria.jpg")" class="card-img-top" alt="Quezabirria">
+                    @* Accede directamente al séptimo producto *@
+                    <h5 class="card-title">@Model.ElementAt(6).Nombre</h5>
+                    <p class="card-text">$@Model.ElementAt(6).Precio</p>
+                    <form asp-action="AñadirAlCarrito" method="post">
+                        <input type="hidden" name="productId" value="@Model.ElementAt(6).Id" />
+                        <input type="number" name="cantidad" value="1" min="1" class="form-control mb-2" />
+                        <button type="submit" class="btn btn-primary">Añadir al Carrito</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+            <div class="col-md-3 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <img src="@Url.Content("~/img/sushi.jpg")" class="card-img-top" alt="Quezabirria">
+                    @* Accede directamente al séptimo producto *@
+                    <h5 class="card-title">@Model.ElementAt(7).Nombre</h5>
+                    <p class="card-text">$@Model.ElementAt(7).Precio</p>
+                    <form asp-action="AñadirAlCarrito" method="post">
+                        <input type="hidden" name="productId" value="@Model.ElementAt(7).Id" />
+                        <input type="number" name="cantidad" value="1" min="1" class="form-control mb-2" />
+                        <button type="submit" class="btn btn-primary">Añadir al Carrito</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+        <h2 class="mt-5 mb-4">Carrito de Compras</h2>
+
+        @if (ViewBag.Carrito != null && (ViewBag.Carrito as List<carritomodel>)?.Any() == true)
+        {
+            <div class="row">
+                @foreach (var item in ViewBag.Carrito as List<carritomodel>)
+                {
+                    <div class="col-md-4 mb-4">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">@item.Nombre</h5>
+                                <p class="card-text">Precio: @item.Precio.ToString("C")</p>
+                                <p class="card-text">Cantidad: @item.Cantidad</p>
+                                <p class="card-text">Total: @(item.Precio * item.Cantidad).ToString("C")</p>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+
+            <form asp-action="ComprarTodo" method="post">
+                <button type="submit" class="btn btn-success">Comprar Todo</button>
+            </form>
+        }
+        else
+        {
+            <p>El carrito está vacío.</p>
+        }
+    </div>
+</html>

@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "Gracias";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>¡Gracias por su compra!</h1>
+        <p>Su pedido ha sido recibido y está siendo procesado. Agradecemos su preferencia.</p>
+        <a  class="btn" asp-action="Index"asp-controller="Home">Volver a la Página Principal</a>
+    </div>
+</body>
+</html>

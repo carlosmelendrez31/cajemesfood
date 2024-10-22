@@ -1,0 +1,28 @@
+﻿
+@model Usuariomodel
+@{
+    ViewData["Title"] = "Guardar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="card">
+    <div class=" card-header">Ingrese a Cajemes'food </div>
+    <div class="card-body">
+<form asp-action="Guardar" asp-controller="Mantenedor" method="post">
+    <div class="mb-3">
+        <label  class="form-label">Nombre</label>
+         <input asp-for="Nombre" type="text" class="form-control">    
+    </div>
+    <div class="mb-3">
+        <label  class="form-label">Contraseña</label>
+        <input asp-for="contrasena" type="password" class="form-control" >
+    </div>
+    <div class="mb-3">
+        <label  class="form-label">Telefono</label>
+        <input asp-for="Telefono" type="text" class="form-control">
+    </div>
+   
+    <button type="submit" class="btn btn-primary">Guardar</button>
+            <a class="nav-link text-dark" asp-area="" asp-controller="Mantenedor" asp-action="Listar">vistaadmin</a>
+        </form>
+</div>
+</div>

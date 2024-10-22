@@ -1,0 +1,30 @@
+﻿@model Adminmodel
+@{
+    ViewData["Title"] = "Editar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class=" card-header">editar contacto</div>
+    <div class="card-body">
+        <form asp-action="Editaradmin" asp-controller="Admin" method="post">
+            <input asp-for="Matricula" type="hidden" class="form-control">
+            <div class="mb-3">
+                <label class="form-label">Nombre</label>
+                <input asp-for="Nombre" type="text" class="form-control">
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Apellido</label>
+                <input asp-for="Apellido" type="text" class="form-control">
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Contrasena</label>
+                <input asp-for="contrasena" type="password" class="form-control">
+            </div>
+
+            <button type="submit" class="btn btn-primary">editar</button>
+            <a>Volver a la lista</a>
+
+        </form>
+    </div>
+</div>

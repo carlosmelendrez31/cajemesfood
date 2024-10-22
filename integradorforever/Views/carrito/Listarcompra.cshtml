@@ -1,0 +1,37 @@
+﻿@model List<carritomodel>
+@{
+    ViewData["Title"] = "Listar";
+    Layout = "~/Views/Shared/layoutadmin.cshtml";
+}
+
+<div class="card">
+    <div class=" card-header">Compras Cajemes'food</div>
+    <div class="card-body">
+        
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th> ID del producto</th>
+                    <th>Cantidad </th>
+                    <th> Total</th>
+                    <th> </th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Nombre</td>
+                        <td>@item.ProductId</td>
+                        <td>@item.Cantidad</td>
+                        <td>@item.Total</td>
+           
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+

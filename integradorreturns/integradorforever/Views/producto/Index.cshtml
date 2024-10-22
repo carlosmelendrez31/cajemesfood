@@ -1,0 +1,50 @@
+﻿@model IEnumerable<comprarmodel>
+
+@{
+    ViewData["Title"] = "Lista de Productos";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        @foreach (var product in Model)
+
+        {
+            <div class="col-md-4 mb-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">@product.Nombre</h5>
+                        <p class="card-text">$@product.Precio</p>
+                        <form asp-action="AñadirAlCarrito" method="post">
+                            <input type="hidden" name="productId" value="@product.Id" />
+                            <input type="number" name="cantidad" value="1" min="1" class="form-control mb-2" />
+                            <button type="submit" class="btn btn-primary">Añadir al Carrito</button>
+
+                            @for (int i = 0; i < ViewBag.Carrito.Count; i++)
+
+                            {
+                                <input type="hidden" name="carrito[@i].ProductId" value="@ViewBag.Carrito[i].ProductId" />
+                                <input type="hidden" name="carrito[@i].Nombre" value="@ViewBag.Carrito[i].Nombre" />
+                                <input type="hidden" name="carrito[@i].Precio" value="@ViewBag.Carrito[i].Precio" />
+                                <input type="hidden" name="carrito[@i].Cantidad" value="@ViewBag.Carrito[i].Cantidad" />
+                            }
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    @* Formulario para comprar todo el carrito *@
+    <div class="mt-4">
+        <form asp-action="ComprarTodo" method="post">
+            @for (int i = 0; i < ViewBag.Carrito.Count; i++)
+            {
+                <input type="hidden" name="carrito[@i].ProductId" value="@ViewBag.Carrito[i].ProductId" />
+                <input type="hidden" name="carrito[@i].Nombre" value="@ViewBag.Carrito[i].Nombre" />
+                <input type="hidden" name="carrito[@i].Precio" value="@ViewBag.Carrito[i].Precio" />
+                <input type="hidden" name="carrito[@i].Cantidad" value="@ViewBag.Carrito[i].Cantidad" />
+            }
+            <button type="submit" class="btn btn-success">Comprar Todo</button>
+        </form>
+    </div>
+</div>

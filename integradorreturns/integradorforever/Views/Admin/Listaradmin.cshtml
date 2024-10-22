@@ -1,0 +1,36 @@
+﻿@model List<Adminmodel>
+@{
+    ViewData["Title"] = "Listar";
+    Layout = "~/Views/Shared/layoutadmin.cshtml";
+}
+
+<div class="card">
+    <div class=" card-header">ADMINISTRADORES CAJEMES'FOOD</div>
+    <div class="card-body">
+        <a asp-action="Guardaradmin" asp-controller="Admin" class="btn btn-success">Crear nuevo</a>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th> Nombre</th>
+                    <th>Contrasena </th>
+                    <th> Telefono</th>
+                    <th> </th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Nombre</td>
+                        <td>@item.Apellido</td>
+                        <td>@item.contrasena</td>
+                        <td><a asp-action="Editaradmin" asp-controller="Admin" class="btn btn-primary btn-sm" asp-route-Matricula="@item.Matricula">Editar</a></td>
+                        <td><a asp-action="Eliminaradmin" asp-controller="Admin" class="btn btn-primary btn-sm" asp-route-Matricula="@item.Matricula">Eliminar</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
