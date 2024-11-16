@@ -5349,3 +5349,9 @@ C:\Users\melan\Downloads\integradorreturns\integradorforever\obj\Debug\net8.0\re
 C:\Users\melan\Downloads\integradorreturns\integradorforever\obj\Debug\net8.0\integradorforever.pdb
 C:\Users\melan\Downloads\integradorreturns\integradorforever\obj\Debug\net8.0\integradorforever.genruntimeconfig.cache
 C:\Users\melan\Downloads\integradorreturns\integradorforever\obj\Debug\net8.0\ref\integradorforever.dll
+C:\Users\melan\Downloads\integradorreturns\integradorforever\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\melan\Downloads\integradorreturns\integradorforever\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\melan\Downloads\integradorreturns\integradorforever\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\melan\Downloads\integradorreturns\integradorforever\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\melan\Downloads\integradorreturns\integradorforever\bin\Debug\net8.0\nunit.framework.legacy.dll
+C:\Users\melan\Downloads\integradorreturns\integradorforever\bin\Debug\net8.0\WebDriver.dll

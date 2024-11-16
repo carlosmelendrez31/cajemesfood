@@ -38,6 +38,9 @@
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "8.0.7",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.4",
+          "NUnit": "4.2.2",
+          "Selenium.WebDriver": "4.26.1",
+          "Selenium.WebDriver.ChromeDriver": "131.0.6778.6900",
           "System.Data.SqlClient": "4.8.6",
           "Microsoft.AspNetCore.Antiforgery": "8.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "8.0.0.0",
@@ -1776,6 +1779,22 @@
           "lib/netstandard2.0/NuGet.Versioning.dll": {}
         }
       },
+      "NUnit/4.2.2": {
+        "runtime": {
+          "lib/net6.0/nunit.framework.dll": {
+            "assemblyVersion": "4.2.2.0",
+            "fileVersion": "4.2.2.0"
+          },
+          "lib/net6.0/nunit.framework.legacy.dll": {
+            "assemblyVersion": "4.2.2.0",
+            "fileVersion": "4.2.2.0"
+          }
+        },
+        "compile": {
+          "lib/net6.0/nunit.framework.dll": {},
+          "lib/net6.0/nunit.framework.legacy.dll": {}
+        }
+      },
       "runtime.native.System.Data.SqlClient.sni/4.7.0": {
         "dependencies": {
           "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni": "4.4.0",
@@ -1810,6 +1829,18 @@
           }
         }
       },
+      "Selenium.WebDriver/4.26.1": {
+        "runtime": {
+          "lib/net8.0/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/net8.0/WebDriver.dll": {}
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/131.0.6778.6900": {},
       "System.CodeDom/5.0.0": {
         "runtime": {
           "lib/netstandard2.0/System.CodeDom.dll": {
@@ -4540,6 +4571,13 @@
       "path": "nuget.versioning/6.9.1",
       "hashPath": "nuget.versioning.6.9.1.nupkg.sha512"
     },
+    "NUnit/4.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mon0OPko28yZ/foVXrhiUvq1LReaGsBdziumyyYGxV/pOE4q92fuYeN+AF+gEU5pCjzykcdBt5l7xobTaiBjsg==",
+      "path": "nunit/4.2.2",
+      "hashPath": "nunit.4.2.2.nupkg.sha512"
+    },
     "runtime.native.System.Data.SqlClient.sni/4.7.0": {
       "type": "package",
       "serviceable": true,
@@ -4567,6 +4605,20 @@
       "sha512": "sha512-YhEdSQUsTx+C8m8Bw7ar5/VesXvCFMItyZF7G1AUY+OM0VPZUOeAVpJ4Wl6fydBGUYZxojTDR3I6Bj/+BPkJNA==",
       "path": "runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0",
       "hashPath": "runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver/4.26.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f0t/Oo9l2aK+znAv/McTPSz6p0fSoIYMZpkHql1ndItqu1n6PGXE1XRhziVk2zwG3RBUzEfIr6r/emkl6sP63w==",
+      "path": "selenium.webdriver/4.26.1",
+      "hashPath": "selenium.webdriver.4.26.1.nupkg.sha512"
+    },
+    "Selenium.WebDriver.ChromeDriver/131.0.6778.6900": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-v92QYhT77cmXp+828/ael4mmwJXlpVII+R5ydO+aDbt4mKgGwenCsNd9en2AfIgBp81kzoIg6iANgBxFZZrnRQ==",
+      "path": "selenium.webdriver.chromedriver/131.0.6778.6900",
+      "hashPath": "selenium.webdriver.chromedriver.131.0.6778.6900.nupkg.sha512"
     },
     "System.CodeDom/5.0.0": {
       "type": "package",

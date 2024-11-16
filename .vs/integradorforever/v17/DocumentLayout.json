@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\melan\\Downloads\\integradorreturns\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6FC48234-E924-4BB3-9814-6B9F69DB07CE}|pruebascajemesfood\\pruebascajemesfood.csproj|c:\\users\\melan\\downloads\\integradorreturns\\pruebascajemesfood\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC48234-E924-4BB3-9814-6B9F69DB07CE}|pruebascajemesfood\\pruebascajemesfood.csproj|solutionrelative:pruebascajemesfood\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\tests\\carritotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\tests\\carritotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC48234-E924-4BB3-9814-6B9F69DB07CE}|pruebascajemesfood\\pruebascajemesfood.csproj|c:\\users\\melan\\downloads\\integradorreturns\\pruebascajemesfood\\pruebascajemesfood.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FC48234-E924-4BB3-9814-6B9F69DB07CE}|pruebascajemesfood\\pruebascajemesfood.csproj|solutionrelative:pruebascajemesfood\\pruebascajemesfood.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\carrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\carrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\carrito\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\carrito\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\controllers\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\controllers\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\tests\\usuariotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\tests\\usuariotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\tests\\admintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\tests\\admintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\carrito\\listarcompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\carrito\\listarcompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -43,14 +75,6 @@
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\carrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\carrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\carrito\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\carrito\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -65,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\controllers\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\controllers\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -150,37 +170,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\Home\\Privacy.cshtml",
+              "DocumentIndex": 2,
+              "Title": "pruebascajemesfood",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\pruebascajemesfood\\pruebascajemesfood.csproj",
+              "RelativeDocumentMoniker": "pruebascajemesfood\\pruebascajemesfood.csproj",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\pruebascajemesfood\\pruebascajemesfood.csproj",
+              "RelativeToolTip": "pruebascajemesfood\\pruebascajemesfood.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T16:30:17.171Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T00:01:24.862Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "menu.cshtml",
-              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\menu.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\Home\\menu.cshtml",
-              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\menu.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\Home\\menu.cshtml",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T05:51:26.715Z",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\pruebascajemesfood\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "pruebascajemesfood\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\pruebascajemesfood\\UnitTest1.cs",
+              "RelativeToolTip": "pruebascajemesfood\\UnitTest1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T00:00:54.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuariotests.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Tests\\Usuariotests.cs",
+              "RelativeDocumentMoniker": "integradorforever\\Tests\\Usuariotests.cs",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Tests\\Usuariotests.cs",
+              "RelativeToolTip": "integradorforever\\Tests\\Usuariotests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:12:14.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Admintests.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Tests\\Admintests.cs",
+              "RelativeDocumentMoniker": "integradorforever\\Tests\\Admintests.cs",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Tests\\Admintests.cs",
+              "RelativeToolTip": "integradorforever\\Tests\\Admintests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:11:58.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carritotests.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Tests\\Carritotests.cs",
+              "RelativeDocumentMoniker": "integradorforever\\Tests\\Carritotests.cs",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Tests\\Carritotests.cs",
+              "RelativeToolTip": "integradorforever\\Tests\\Carritotests.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwD0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:11:46.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Gracias.cshtml",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\Gracias.cshtml",
               "RelativeDocumentMoniker": "integradorforever\\Views\\Home\\Gracias.cshtml",
@@ -193,20 +253,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Mantenedor\\Index.cshtml",
               "RelativeDocumentMoniker": "integradorforever\\Views\\Mantenedor\\Index.cshtml",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Mantenedor\\Index.cshtml",
               "RelativeToolTip": "integradorforever\\Views\\Mantenedor\\Index.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAABBwAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-22T14:47:50.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Program.cs",
               "RelativeDocumentMoniker": "integradorforever\\Program.cs",
@@ -219,7 +279,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "carrito.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\carrito.cs",
+              "RelativeDocumentMoniker": "integradorforever\\Controllers\\carrito.cs",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\carrito.cs",
+              "RelativeToolTip": "integradorforever\\Controllers\\carrito.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:17:34.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Carrito.cshtml",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\carrito\\Carrito.cshtml",
+              "RelativeDocumentMoniker": "integradorforever\\Views\\carrito\\Carrito.cshtml",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\carrito\\Carrito.cshtml",
+              "RelativeToolTip": "integradorforever\\Views\\carrito\\Carrito.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T15:27:33.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\carrito\\Index.cshtml",
+              "RelativeDocumentMoniker": "integradorforever\\Views\\carrito\\Index.cshtml",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\carrito\\Index.cshtml",
+              "RelativeToolTip": "integradorforever\\Views\\carrito\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T05:37:38.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\menu.cshtml",
+              "RelativeDocumentMoniker": "integradorforever\\Views\\Home\\menu.cshtml",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\menu.cshtml",
+              "RelativeToolTip": "integradorforever\\Views\\Home\\menu.cshtml",
+              "ViewState": "AgIAAFsAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T05:51:26.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "integradorforever\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "integradorforever\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T16:30:17.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "usuarioviews.cshtml",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Admin\\usuarioviews.cshtml",
               "RelativeDocumentMoniker": "integradorforever\\Views\\Admin\\usuarioviews.cshtml",
@@ -232,33 +357,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Admin.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\Admin.cs",
               "RelativeDocumentMoniker": "integradorforever\\Controllers\\Admin.cs",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\Admin.cs",
               "RelativeToolTip": "integradorforever\\Controllers\\Admin.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAGgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAABBwGgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T16:20:13.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Listarcompra.cshtml",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\carrito\\Listarcompra.cshtml",
               "RelativeDocumentMoniker": "integradorforever\\Views\\carrito\\Listarcompra.cshtml",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\carrito\\Listarcompra.cshtml",
               "RelativeToolTip": "integradorforever\\Views\\carrito\\Listarcompra.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-21T15:16:15.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "integradorforever\\Views\\Home\\Index.cshtml",
@@ -271,33 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\carrito\\Index.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\carrito\\Index.cshtml",
-              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\carrito\\Index.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\carrito\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T05:37:38.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Carrito.cshtml",
-              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\carrito\\Carrito.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\carrito\\Carrito.cshtml",
-              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\carrito\\Carrito.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\carrito\\Carrito.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T15:27:33.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "admin.cshtml",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\admin.cshtml",
               "RelativeDocumentMoniker": "integradorforever\\Views\\Home\\admin.cshtml",
@@ -310,31 +409,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "Listar.cshtml",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Mantenedor\\Listar.cshtml",
               "RelativeDocumentMoniker": "integradorforever\\Views\\Mantenedor\\Listar.cshtml",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Mantenedor\\Listar.cshtml",
               "RelativeToolTip": "integradorforever\\Views\\Mantenedor\\Listar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T15:11:08.429Z"
+              "WhenOpened": "2024-08-22T15:11:08.429Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "Comprardatos.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Datos\\Comprardatos.cs",
               "RelativeDocumentMoniker": "integradorforever\\Datos\\Comprardatos.cs",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Datos\\Comprardatos.cs",
               "RelativeToolTip": "integradorforever\\Datos\\Comprardatos.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAE0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAABBwE0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T15:18:57.04Z"
+              "WhenOpened": "2024-08-21T15:18:57.04Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\appsettings.json",
               "RelativeDocumentMoniker": "integradorforever\\appsettings.json",
@@ -342,59 +443,51 @@
               "RelativeToolTip": "integradorforever\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-21T14:50:45.155Z"
+              "WhenOpened": "2024-08-21T14:50:45.155Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "Editar.cshtml",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Mantenedor\\Editar.cshtml",
               "RelativeDocumentMoniker": "integradorforever\\Views\\Mantenedor\\Editar.cshtml",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Mantenedor\\Editar.cshtml",
               "RelativeToolTip": "integradorforever\\Views\\Mantenedor\\Editar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T15:12:12.651Z"
+              "WhenOpened": "2024-08-22T15:12:12.651Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "carrito.cs",
-              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\carrito.cs",
-              "RelativeDocumentMoniker": "integradorforever\\Controllers\\carrito.cs",
-              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\carrito.cs",
-              "RelativeToolTip": "integradorforever\\Controllers\\carrito.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAowEMAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T15:17:34.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "integradorforever\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "integradorforever\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAACHAAAA",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwBkAAACHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T17:44:46.201Z"
+              "WhenOpened": "2024-08-22T17:44:46.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Auth.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\Auth.cs",
               "RelativeDocumentMoniker": "integradorforever\\Controllers\\Auth.cs",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\Auth.cs",
               "RelativeToolTip": "integradorforever\\Controllers\\Auth.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAAB4AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAABBwB4AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T16:19:14.491Z"
+              "WhenOpened": "2024-08-21T16:19:14.491Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "integradorforever\\Views\\Auth\\Login.cshtml",
@@ -402,187 +495,203 @@
               "RelativeToolTip": "integradorforever\\Views\\Auth\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T16:47:50.537Z"
+              "WhenOpened": "2024-08-21T16:47:50.537Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "integradorforever\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\HomeController.cs",
               "RelativeToolTip": "integradorforever\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA1wCgAAAAgAAAA",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T16:00:49.452Z"
+              "WhenOpened": "2024-08-21T16:00:49.452Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "Listaradmin.cshtml",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Admin\\Listaradmin.cshtml",
               "RelativeDocumentMoniker": "integradorforever\\Views\\Admin\\Listaradmin.cshtml",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Admin\\Listaradmin.cshtml",
               "RelativeToolTip": "integradorforever\\Views\\Admin\\Listaradmin.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T15:02:21.134Z"
+              "WhenOpened": "2024-08-21T15:02:21.134Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Models\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "integradorforever\\Models\\LoginViewModel.cs",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Models\\LoginViewModel.cs",
               "RelativeToolTip": "integradorforever\\Models\\LoginViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T16:28:51.321Z"
+              "WhenOpened": "2024-08-21T16:28:51.321Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Admin\\Login.cshtml",
               "RelativeDocumentMoniker": "integradorforever\\Views\\Admin\\Login.cshtml",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Admin\\Login.cshtml",
               "RelativeToolTip": "integradorforever\\Views\\Admin\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T16:49:10.16Z"
+              "WhenOpened": "2024-08-21T16:49:10.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "AuthDatos.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Datos\\AuthDatos.cs",
               "RelativeDocumentMoniker": "integradorforever\\Datos\\AuthDatos.cs",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Datos\\AuthDatos.cs",
               "RelativeToolTip": "integradorforever\\Datos\\AuthDatos.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwB0AAABBAAAA",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T16:04:18.218Z"
+              "WhenOpened": "2024-08-21T16:04:18.218Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "adminviews.cshtml",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Admin\\adminviews.cshtml",
               "RelativeDocumentMoniker": "integradorforever\\Views\\Admin\\adminviews.cshtml",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Admin\\adminviews.cshtml",
               "RelativeToolTip": "integradorforever\\Views\\Admin\\adminviews.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T14:44:53.623Z"
+              "WhenOpened": "2024-08-22T14:44:53.623Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "Editaradmin.cshtml",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Admin\\Editaradmin.cshtml",
               "RelativeDocumentMoniker": "integradorforever\\Views\\Admin\\Editaradmin.cshtml",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Admin\\Editaradmin.cshtml",
               "RelativeToolTip": "integradorforever\\Views\\Admin\\Editaradmin.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T16:42:29.212Z"
+              "WhenOpened": "2024-08-21T16:42:29.212Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "Admindatos.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Datos\\Admindatos.cs",
               "RelativeDocumentMoniker": "integradorforever\\Datos\\Admindatos.cs",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Datos\\Admindatos.cs",
               "RelativeToolTip": "integradorforever\\Datos\\Admindatos.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAIMAAAAJAAAA",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwIMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T15:20:17.65Z"
+              "WhenOpened": "2024-08-21T15:20:17.65Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "Guardaradmin.cshtml",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Admin\\Guardaradmin.cshtml",
               "RelativeDocumentMoniker": "integradorforever\\Views\\Admin\\Guardaradmin.cshtml",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Admin\\Guardaradmin.cshtml",
               "RelativeToolTip": "integradorforever\\Views\\Admin\\Guardaradmin.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T15:00:36.504Z"
+              "WhenOpened": "2024-08-21T15:00:36.504Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "carritomodel.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Models\\carritomodel.cs",
               "RelativeDocumentMoniker": "integradorforever\\Models\\carritomodel.cs",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Models\\carritomodel.cs",
               "RelativeToolTip": "integradorforever\\Models\\carritomodel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T15:27:38.441Z"
+              "WhenOpened": "2024-08-21T15:27:38.441Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "conexion.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Datos\\conexion.cs",
               "RelativeDocumentMoniker": "integradorforever\\Datos\\conexion.cs",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Datos\\conexion.cs",
               "RelativeToolTip": "integradorforever\\Datos\\conexion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T16:10:49.722Z"
+              "WhenOpened": "2024-08-21T16:10:49.722Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "Usuariomodel.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Models\\Usuariomodel.cs",
               "RelativeDocumentMoniker": "integradorforever\\Models\\Usuariomodel.cs",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Models\\Usuariomodel.cs",
               "RelativeToolTip": "integradorforever\\Models\\Usuariomodel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T16:08:21.415Z"
+              "WhenOpened": "2024-08-21T16:08:21.415Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "producto.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\producto.cs",
               "RelativeDocumentMoniker": "integradorforever\\Controllers\\producto.cs",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\producto.cs",
               "RelativeToolTip": "integradorforever\\Controllers\\producto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T15:21:16.007Z"
+              "WhenOpened": "2024-08-21T15:21:16.007Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "Adminmodel.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Models\\Adminmodel.cs",
               "RelativeDocumentMoniker": "integradorforever\\Models\\Adminmodel.cs",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Models\\Adminmodel.cs",
               "RelativeToolTip": "integradorforever\\Models\\Adminmodel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T15:27:44.705Z"
+              "WhenOpened": "2024-08-21T15:27:44.705Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "comprarmodel.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Models\\comprarmodel.cs",
               "RelativeDocumentMoniker": "integradorforever\\Models\\comprarmodel.cs",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Models\\comprarmodel.cs",
               "RelativeToolTip": "integradorforever\\Models\\comprarmodel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T15:27:46.914Z"
+              "WhenOpened": "2024-08-21T15:27:46.914Z",
+              "EditorCaption": ""
             }
           ]
         }

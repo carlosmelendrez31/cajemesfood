@@ -1577,6 +1577,28 @@
           "lib/netstandard2.0/NuGet.Versioning.dll": {}
         }
       },
+      "NUnit/4.2.2": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/nunit.framework.dll": {
+            "related": ".legacy.xml;.xml"
+          },
+          "lib/net6.0/nunit.framework.legacy.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/nunit.framework.dll": {
+            "related": ".legacy.xml;.xml"
+          },
+          "lib/net6.0/nunit.framework.legacy.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/NUnit.props": {}
+        }
+      },
       "runtime.native.System.Data.SqlClient.sni/4.7.0": {
         "type": "package",
         "dependencies": {
@@ -1610,6 +1632,28 @@
             "assetType": "native",
             "rid": "win-x86"
           }
+        }
+      },
+      "Selenium.WebDriver/4.26.1": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/WebDriver.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/WebDriver.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Selenium.WebDriver.targets": {}
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/131.0.6778.6900": {
+        "type": "package",
+        "build": {
+          "build/Selenium.WebDriver.ChromeDriver.targets": {}
         }
       },
       "System.CodeDom/5.0.0": {
@@ -5150,6 +5194,31 @@
         "nuget.versioning.nuspec"
       ]
     },
+    "NUnit/4.2.2": {
+      "sha512": "mon0OPko28yZ/foVXrhiUvq1LReaGsBdziumyyYGxV/pOE4q92fuYeN+AF+gEU5pCjzykcdBt5l7xobTaiBjsg==",
+      "type": "package",
+      "path": "nunit/4.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "NOTICES.md",
+        "README.md",
+        "THIRD_PARTY_NOTICES.md",
+        "build/NUnit.props",
+        "icon.png",
+        "lib/net462/nunit.framework.dll",
+        "lib/net462/nunit.framework.legacy.dll",
+        "lib/net462/nunit.framework.legacy.xml",
+        "lib/net462/nunit.framework.xml",
+        "lib/net6.0/nunit.framework.dll",
+        "lib/net6.0/nunit.framework.legacy.dll",
+        "lib/net6.0/nunit.framework.legacy.xml",
+        "lib/net6.0/nunit.framework.xml",
+        "nunit.4.2.2.nupkg.sha512",
+        "nunit.nuspec"
+      ]
+    },
     "runtime.native.System.Data.SqlClient.sni/4.7.0": {
       "sha512": "9kyFSIdN3T0qjDQ2R0HRXYIhS3l5psBzQi6qqhdLz+SzFyEy4sVxNOke+yyYv8Cu8rPER12c3RDjLT8wF3WBYQ==",
       "type": "package",
@@ -5211,6 +5280,52 @@
         "runtimes/win-x86/native/sni.dll",
         "useSharedDesignerContext.txt",
         "version.txt"
+      ]
+    },
+    "Selenium.WebDriver/4.26.1": {
+      "sha512": "f0t/Oo9l2aK+znAv/McTPSz6p0fSoIYMZpkHql1ndItqu1n6PGXE1XRhziVk2zwG3RBUzEfIr6r/emkl6sP63w==",
+      "type": "package",
+      "path": "selenium.webdriver/4.26.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "build/Selenium.WebDriver.targets",
+        "buildTransitive/Selenium.WebDriver.targets",
+        "icon.png",
+        "lib/net8.0/WebDriver.dll",
+        "lib/net8.0/WebDriver.xml",
+        "lib/netstandard2.0/WebDriver.dll",
+        "lib/netstandard2.0/WebDriver.xml",
+        "manager/linux/selenium-manager",
+        "manager/macos/selenium-manager",
+        "manager/windows/selenium-manager.exe",
+        "selenium.webdriver.4.26.1.nupkg.sha512",
+        "selenium.webdriver.nuspec"
+      ]
+    },
+    "Selenium.WebDriver.ChromeDriver/131.0.6778.6900": {
+      "sha512": "v92QYhT77cmXp+828/ael4mmwJXlpVII+R5ydO+aDbt4mKgGwenCsNd9en2AfIgBp81kzoIg6iANgBxFZZrnRQ==",
+      "type": "package",
+      "path": "selenium.webdriver.chromedriver/131.0.6778.6900",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "build/DefinePropertiesChromeDriver.targets",
+        "build/Selenium.WebDriver.ChromeDriver.targets",
+        "driver/linux64/LICENSE.chromedriver",
+        "driver/linux64/chromedriver",
+        "driver/mac64/LICENSE.chromedriver",
+        "driver/mac64/chromedriver",
+        "driver/mac64arm/LICENSE.chromedriver",
+        "driver/mac64arm/chromedriver",
+        "driver/win32/LICENSE.chromedriver",
+        "driver/win32/chromedriver.exe",
+        "nupkg-icon.png",
+        "selenium.webdriver.chromedriver.131.0.6778.6900.nupkg.sha512",
+        "selenium.webdriver.chromedriver.nuspec"
       ]
     },
     "System.CodeDom/5.0.0": {
@@ -6151,6 +6266,9 @@
     "net8.0": [
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 8.0.7",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.4",
+      "NUnit >= 4.2.2",
+      "Selenium.WebDriver >= 4.26.1",
+      "Selenium.WebDriver.ChromeDriver >= 131.0.6778.6900",
       "System.Data.SqlClient >= 4.8.6"
     ]
   },
@@ -6211,6 +6329,18 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[8.0.4, )"
+          },
+          "NUnit": {
+            "target": "Package",
+            "version": "[4.2.2, )"
+          },
+          "Selenium.WebDriver": {
+            "target": "Package",
+            "version": "[4.26.1, )"
+          },
+          "Selenium.WebDriver.ChromeDriver": {
+            "target": "Package",
+            "version": "[131.0.6778.6900, )"
           },
           "System.Data.SqlClient": {
             "target": "Package",

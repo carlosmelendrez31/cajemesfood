@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "f7sODqyMLBg=",
+  "dgSpecHash": "KSXUst2QKm0=",
   "success": true,
   "projectFilePath": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\integradorforever.csproj",
   "expectedPackageFiles": [
@@ -98,10 +98,13 @@
     "C:\\Users\\melan\\.nuget\\packages\\nuget.projectmodel\\6.9.1\\nuget.projectmodel.6.9.1.nupkg.sha512",
     "C:\\Users\\melan\\.nuget\\packages\\nuget.protocol\\6.9.1\\nuget.protocol.6.9.1.nupkg.sha512",
     "C:\\Users\\melan\\.nuget\\packages\\nuget.versioning\\6.9.1\\nuget.versioning.6.9.1.nupkg.sha512",
+    "C:\\Users\\melan\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
     "C:\\Users\\melan\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
     "C:\\Users\\melan\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\melan\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\melan\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\melan\\.nuget\\packages\\selenium.webdriver\\4.26.1\\selenium.webdriver.4.26.1.nupkg.sha512",
+    "C:\\Users\\melan\\.nuget\\packages\\selenium.webdriver.chromedriver\\131.0.6778.6900\\selenium.webdriver.chromedriver.131.0.6778.6900.nupkg.sha512",
     "C:\\Users\\melan\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
     "C:\\Users\\melan\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
     "C:\\Users\\melan\\.nuget\\packages\\system.composition\\7.0.0\\system.composition.7.0.0.nupkg.sha512",
