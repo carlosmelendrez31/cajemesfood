@@ -17,123 +17,123 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = integradorforever
 build_property.RootNamespace = integradorforever
-build_property.ProjectDir = C:\Users\melan\Downloads\integradorreturns\integradorforever\
+build_property.ProjectDir = C:\Users\tamarindo\Desktop\Cajemesfood\integradorforever\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\melan\Downloads\integradorreturns\integradorforever
+build_property.MSBuildProjectDirectory = C:\Users\tamarindo\Desktop\Cajemesfood\integradorforever
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/Admin/adminviews.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/Admin/adminviews.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYWRtaW52aWV3cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/Admin/Editaradmin.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/Admin/Editaradmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdGFyYWRtaW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/Admin/EliminarADMIN.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/Admin/EliminarADMIN.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWxpbWluYXJBRE1JTi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/Admin/Guardaradmin.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/Admin/Guardaradmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cR3VhcmRhcmFkbWluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/Admin/Listaradmin.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/Admin/Listaradmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGlzdGFyYWRtaW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/Admin/Login.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/Admin/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/Admin/usuarioviews.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/Admin/usuarioviews.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXN1YXJpb3ZpZXdzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/Auth/Login.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/Auth/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/carrito/Carrito.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/carrito/Carrito.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2Fycml0b1xDYXJyaXRvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/carrito/Index.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/carrito/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2Fycml0b1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/carrito/Listarcompra.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/carrito/Listarcompra.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2Fycml0b1xMaXN0YXJjb21wcmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/Home/admin.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/Home/admin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/Home/Gracias.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/Home/Gracias.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHcmFjaWFzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/Home/Index.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/Home/menu.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/Home/menu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxtZW51LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/Home/Privacy.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/Mantenedor/Editar.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/Mantenedor/Editar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuZWRvclxFZGl0YXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/Mantenedor/Eliminar.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/Mantenedor/Eliminar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuZWRvclxFbGltaW5hci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/Mantenedor/Guardar.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/Mantenedor/Guardar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuZWRvclxHdWFyZGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/Mantenedor/Index.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/Mantenedor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuZWRvclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/Mantenedor/Listar.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/Mantenedor/Listar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuZWRvclxMaXN0YXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/producto/Index.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/producto/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvZHVjdG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/Shared/Error.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/Shared/layoutadmin.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/Shared/layoutadmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGxheW91dGFkbWluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/_ViewImports.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/_ViewStart.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/melan/Downloads/integradorreturns/integradorforever/Views/Shared/_Layout.cshtml]
+[C:/Users/tamarindo/Desktop/Cajemesfood/integradorforever/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-y0ynj0jn80

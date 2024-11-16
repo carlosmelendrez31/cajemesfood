@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\integradorforever.csproj": {}
+    "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\integradorforever.csproj": {}
   },
   "projects": {
-    "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\integradorforever.csproj": {
+    "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\integradorforever.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\integradorforever.csproj",
+        "projectUniqueName": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\integradorforever.csproj",
         "projectName": "integradorforever",
-        "projectPath": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\integradorforever.csproj",
-        "packagesPath": "C:\\Users\\melan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\obj\\",
+        "projectPath": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\integradorforever.csproj",
+        "packagesPath": "C:\\Users\\tamarindo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\melan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\tamarindo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
