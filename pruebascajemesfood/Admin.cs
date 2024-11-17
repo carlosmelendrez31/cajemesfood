@@ -5,8 +5,12 @@ using OpenQA.Selenium.Support.UI;
 
 namespace pruebascajemesfood
 {
+<<<<<<< Updated upstream
     [TestFixture]
     public class AdminLoginTest
+=======
+    internal class Admin
+>>>>>>> Stashed changes
     {
         private IWebDriver driver;
         private WebDriverWait wait;

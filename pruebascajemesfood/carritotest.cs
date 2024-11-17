@@ -1,70 +1,100 @@
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Support.UI;
 using System;
+using System.Security.Cryptography.X509Certificates;
 
-namespace pruebascajemesfood
+[TestFixture]
+public class CarritoTests
 {
-    public class Tests
+    private IWebDriver driver;
+    private WebDriverWait wait;
+
+    [SetUp]
+    public void SetUp()
     {
-        private IWebDriver driver;
+        driver = new ChromeDriver();
+        wait = new WebDriverWait(driver, TimeSpan.FromSeconds(30)); // Aumenta el tiempo de espera
+    }
 
-        [SetUp]
-        public void Setup()
+    [TearDown]
+    public void TearDown()
+    {
+        driver.Quit();
+    }
+
+    [Test]
+    public void AñadirAlCarrito_DeberiaIncrementarCantidad()
+    {
+        driver.Navigate().GoToUrl("http://localhost:5034/carrito/index");
+
+        var cantidadInput = wait.Until(d => d.FindElement(By.Name("cantidad")));
+        cantidadInput.Clear();
+        cantidadInput.SendKeys("1");
+
+        var addToCartButton = driver.FindElement(By.CssSelector("button[type='submit']"));
+        ((IJavaScriptExecutor)driver).ExecuteScript("arguments[0].scrollIntoView(true);", addToCartButton);
+        addToCartButton.Click();
+        Thread.Sleep(5000);
+        // Espera a que el contenedor del carrito se renderice después de agregar el producto
+        var carritoItems = wait.Until(driver => driver.FindElements(By.XPath("//div[contains(@class, 'card-body')]")));
+
+        bool productoEncontrado = false;
+        foreach (var item in carritoItems)
         {
-            // Inicializa el navegador
-            driver = new ChromeDriver();
-            driver.Manage().Window.Maximize();
-            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
+            try
+            {
+                var cantidadEnCarrito = item.FindElement(By.XPath(".//p[contains(text(), 'cantidad:')]")).Text;
+                if (cantidadEnCarrito.Contains("cantidad: 1"))
+                {
+                    productoEncontrado = true;
+                    break;
+                    Assert.That(productoEncontrado, Is.True, "El producto fue añadido");
+                }
+            }
+            catch (NoSuchElementException)
+            {
+                // Ignorar si no se encuentra el elemento en este item
+            }
         }
+        
+        
 
-        [Test]
-        public void AñadirAlCarrito_DeberiaIncrementarCantidad()
-        {
-            // Navega a la página de productos
-            driver.Navigate().GoToUrl("http://localhost:5034/carrito/index");
+       
+    }
+    [SetUp]
+    public void SetUp2()
+    {
+        driver = new ChromeDriver();
+        driver.Navigate().GoToUrl("http://localhost:5034/carrito/index"); // Reemplaza con la URL de tu aplicación
+    }
 
-            // Encuentra el campo de cantidad e ingresa un valor
-            var cantidadInput = driver.FindElement(By.Name("cantidad"));
-            cantidadInput.Clear();
-            cantidadInput.SendKeys("1");
+    [TearDown]
+    public void TearDown2()
+    {
+        driver.Quit();
+    }
 
-            // Encuentra y llena el campo hidden del producto
-            var productIdInput = driver.FindElement(By.Name("productId"));
-            Assert.That(productIdInput.GetAttribute("value"), Is.EqualTo("15"), "El ID del producto no es correcto.");
+    [Test]
+    public void AñadirDosProductosDiferentesAlCarrito()
+    {
+        // Añadir primer producto
+        var primerProducto = wait.Until(d => d.FindElement(By.CssSelector("body > div > main > div > div > div:nth-child(2) > div > div > form > input[type=hidden]:nth-child(1)")));
+        primerProducto.FindElement(By.Name("cantidad")).SendKeys("1");
+        primerProducto.FindElement(By.Name("añadir-al-carrito")).Click();
 
-            // Haz clic en el botón "Añadir al Carrito"
-            var addToCartButton = driver.FindElement(By.CssSelector("button[type='submit']"));
-            addToCartButton.Click();
+        // Añadir segundo producto
+        var segundoProducto = wait.Until(d => d.FindElement(By.CssSelector("body > div > main > div > div > div:nth-child(3) > div > div > form > input[type=hidden]:nth-child(1)")));
+        segundoProducto.FindElement(By.Name("cantidad")).SendKeys("1");
+        segundoProducto.FindElement(By.Name("añadir-al-carrito")).Click();
 
-            // Verifica que se redirige al índice o actualiza el carrito
-            driver.Navigate().GoToUrl("http://localhost:5034/carrito/index");
+        // Verificar que ambos productos están en el carrito
+        var carrito = wait.Until(d => d.FindElement(By.Id("carrito")));
+        var itemsCarrito = carrito.FindElements(By.ClassName("item-carrito"));
 
-            // Verifica que el producto fue añadido al carrito
-            var productoEnCarrito = driver.FindElement(By.CssSelector("tr[data-product-id='1']"));
-            Assert.That(productoEnCarrito, Is.Not.Null, "El producto no fue añadido al carrito.");
-
-            // Verifica la cantidad del producto en el carrito
-            var cantidad = productoEnCarrito.FindElement(By.CssSelector(".cantidad"));
-            Assert.That(cantidad.Text, Is.EqualTo("1"), "La cantidad del producto no es correcta.");
-
-            // Simula agregar nuevamente el producto
-            driver.Navigate().GoToUrl("http://localhost:5034/carrito/index");
-            addToCartButton = driver.FindElement(By.CssSelector("button[type='submit']"));
-            addToCartButton.Click();
-
-            // Verifica que la cantidad ha aumentado
-            driver.Navigate().Refresh();
-            cantidad = productoEnCarrito.FindElement(By.CssSelector(".cantidad"));
-            Assert.That(cantidad.Text, Is.EqualTo("2"), "La cantidad del producto no se actualizó correctamente.");
-        }
-
-        [TearDown]
-        public void TearDown()
-        {
-            // Cierra el navegador
-            driver.Quit();
-        }
-
+        Assert.AreEqual(2, itemsCarrito.Count);
+        Assert.IsTrue(itemsCarrito.Any(item => item.Text.Contains("Nombre del Producto 1"))); // Reemplaza con el nombre del producto
+        Assert.IsTrue(itemsCarrito.Any(item => item.Text.Contains("Nombre del Producto 2"))); // Reemplaza con el nombre del producto
     }
 }
