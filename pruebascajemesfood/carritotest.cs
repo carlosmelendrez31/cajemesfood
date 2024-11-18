@@ -4,7 +4,6 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
 using System;
 using System.Security.Cryptography.X509Certificates;
-
 [TestFixture]
 public class CarritoTests
 {
@@ -12,10 +11,11 @@ public class CarritoTests
     private WebDriverWait wait;
 
     [SetUp]
-    public void SetUp()
+    public void Setup()
     {
         driver = new ChromeDriver();
-        wait = new WebDriverWait(driver, TimeSpan.FromSeconds(30)); // Aumenta el tiempo de espera
+        wait = new WebDriverWait(driver, TimeSpan.FromSeconds(30));
+        driver.Manage().Window.Maximize();
     }
 
     [TearDown]
@@ -25,76 +25,87 @@ public class CarritoTests
     }
 
     [Test]
-    public void AñadirAlCarrito_DeberiaIncrementarCantidad()
+    public void AgregarProductoAlCarrito_DeberiaMostrarProductoEnCarrito()
     {
+        // Navegar a la página principal
         driver.Navigate().GoToUrl("http://localhost:5034/carrito/index");
 
-        var cantidadInput = wait.Until(d => d.FindElement(By.Name("cantidad")));
+        // Buscar el formulario de un producto específico y completarlo
+        var productoFormulario = wait.Until(d => d.FindElement(By.CssSelector("div.card-body form")));
+        var cantidadInput = productoFormulario.FindElement(By.Name("cantidad"));
         cantidadInput.Clear();
-        cantidadInput.SendKeys("1");
+        cantidadInput.SendKeys("2");
 
-        var addToCartButton = driver.FindElement(By.CssSelector("button[type='submit']"));
-        ((IJavaScriptExecutor)driver).ExecuteScript("arguments[0].scrollIntoView(true);", addToCartButton);
+        // Hacer clic en "Añadir al Carrito"
+        var addToCartButton = productoFormulario.FindElement(By.CssSelector("button[type='submit']"));
         addToCartButton.Click();
-        Thread.Sleep(5000);
-        // Espera a que el contenedor del carrito se renderice después de agregar el producto
-        var carritoItems = wait.Until(driver => driver.FindElements(By.XPath("//div[contains(@class, 'card-body')]")));
 
-        bool productoEncontrado = false;
-        foreach (var item in carritoItems)
+        // Esperar a que el elemento del carrito se actualice
+        var itemCantidad = wait.Until(d =>
         {
             try
             {
-                var cantidadEnCarrito = item.FindElement(By.XPath(".//p[contains(text(), 'cantidad:')]")).Text;
-                if (cantidadEnCarrito.Contains("cantidad: 1"))
-                {
-                    productoEncontrado = true;
-                    break;
-                    Assert.That(productoEncontrado, Is.True, "El producto fue añadido");
-                }
+                return d.FindElement(By.CssSelector("p.card-text.Cantidad"));
             }
             catch (NoSuchElementException)
             {
-                // Ignorar si no se encuentra el elemento en este item
+                return null; // Seguir esperando
             }
-        }
-        
-        
+        });
 
-       
-    }
-    [SetUp]
-    public void SetUp2()
-    {
-        driver = new ChromeDriver();
-        driver.Navigate().GoToUrl("http://localhost:5034/carrito/index"); // Reemplaza con la URL de tu aplicación
-    }
-
-    [TearDown]
-    public void TearDown2()
-    {
-        driver.Quit();
+        // Verificar que el elemento no sea nulo y que contiene la cantidad esperada
+        Assert.IsNotNull(itemCantidad, "El producto no fue añadido al carrito.");
+        Assert.IsTrue(itemCantidad.Text.Contains("Cantidad: 2"), "La cantidad en el carrito no coincide con la cantidad seleccionada.");
     }
 
     [Test]
-    public void AñadirDosProductosDiferentesAlCarrito()
+    public void AgregarProductoYComprarTodo_DeberiaRedirigirAGracias()
     {
-        // Añadir primer producto
-        var primerProducto = wait.Until(d => d.FindElement(By.CssSelector("body > div > main > div > div > div:nth-child(2) > div > div > form > input[type=hidden]:nth-child(1)")));
-        primerProducto.FindElement(By.Name("cantidad")).SendKeys("1");
-        primerProducto.FindElement(By.Name("añadir-al-carrito")).Click();
+        // Navegar a la página principal
+        driver.Navigate().GoToUrl("http://localhost:5034/carrito/index");
 
-        // Añadir segundo producto
-        var segundoProducto = wait.Until(d => d.FindElement(By.CssSelector("body > div > main > div > div > div:nth-child(3) > div > div > form > input[type=hidden]:nth-child(1)")));
-        segundoProducto.FindElement(By.Name("cantidad")).SendKeys("1");
-        segundoProducto.FindElement(By.Name("añadir-al-carrito")).Click();
+        // Buscar el formulario de un producto específico y completarlo
+        var productoFormulario = wait.Until(d => d.FindElement(By.CssSelector("div.card-body form")));
+        var cantidadInput = productoFormulario.FindElement(By.Name("cantidad"));
+        cantidadInput.Clear();
+        cantidadInput.SendKeys("2");
 
-        // Verificar que ambos productos están en el carrito
-        var carrito = wait.Until(d => d.FindElement(By.Id("carrito")));
-        var itemsCarrito = carrito.FindElements(By.ClassName("item-carrito"));
+        // Hacer clic en "Añadir al Carrito"
+        var addToCartButton = productoFormulario.FindElement(By.CssSelector("button[type='submit']"));
+        addToCartButton.Click();
 
-        Assert.AreEqual(2, itemsCarrito.Count);
-        Assert.IsTrue(itemsCarrito.Any(item => item.Text.Contains("Nombre del Producto 1"))); // Reemplaza con el nombre del producto
-        Assert.IsTrue(itemsCarrito.Any(item => item.Text.Contains("Nombre del Producto 2"))); // Reemplaza con el nombre del producto
+        // Esperar a que el formulario de "Comprar Todo" se muestre
+        var comprarTodoButton = wait.Until(d =>
+        {
+            try
+            {
+                return d.FindElement(By.CssSelector("body > div > main > form > button"));
+            }
+            catch (NoSuchElementException)
+            {
+                return null; // Seguir esperando si no se encuentra
+            }
+        });
+
+        // Verificar que el botón "Comprar Todo" esté presente
+        Assert.IsNotNull(comprarTodoButton, "El botón 'Comprar Todo' no se encontró.");
+
+        // Desplazar hacia el botón "Comprar Todo" para asegurarse de que esté visible
+        ((IJavaScriptExecutor)driver).ExecuteScript("arguments[0].scrollIntoView(true);", comprarTodoButton);
+
+        // Esperar un poco más para que el botón sea completamente accesible
+        wait.Until(d => comprarTodoButton.Displayed && comprarTodoButton.Enabled);
+
+        // Hacer clic usando JavaScript para evitar problemas de intercepción
+        ((IJavaScriptExecutor)driver).ExecuteScript("arguments[0].click();", comprarTodoButton);
+
+        // Esperar a que la página de redirección a "Gracias" se cargue
+        wait.Until(d => d.Url.Contains("Gracias"));
+
+        // Verificar que la URL contiene "Gracias" como esperado
+        Assert.IsTrue(driver.Url.Contains("Gracias"), "La redirección a la página de Gracias falló.");
     }
+
+
 }
+

@@ -1,197 +1,157 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\",
+  "WorkspaceRootPath": "C:\\Users\\melan\\Downloads\\integradorreturns\\",
   "Documents": [
     {
-<<<<<<< Updated upstream
-      "AbsoluteMoniker": "D:0:0:{6FC48234-E924-4BB3-9814-6B9F69DB07CE}|pruebascajemesfood\\pruebascajemesfood.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\pruebascajemesfood\\usuariotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FC48234-E924-4BB3-9814-6B9F69DB07CE}|pruebascajemesfood\\pruebascajemesfood.csproj|solutionrelative:pruebascajemesfood\\usuariotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-      "AbsoluteMoniker": "D:0:0:{6FC48234-E924-4BB3-9814-6B9F69DB07CE}|pruebascajemesfood\\pruebascajemesfood.csproj|c:\\users\\melan\\downloads\\integradorreturns\\pruebascajemesfood\\carritotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FC48234-E924-4BB3-9814-6B9F69DB07CE}|pruebascajemesfood\\pruebascajemesfood.csproj|solutionrelative:pruebascajemesfood\\carritotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\carrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\carrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\controllers\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\controllers\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\mantenedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\mantenedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FC48234-E924-4BB3-9814-6B9F69DB07CE}|pruebascajemesfood\\pruebascajemesfood.csproj|c:\\users\\melan\\downloads\\integradorreturns\\pruebascajemesfood\\pruebascajemesfood.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6FC48234-E924-4BB3-9814-6B9F69DB07CE}|pruebascajemesfood\\pruebascajemesfood.csproj|solutionrelative:pruebascajemesfood\\pruebascajemesfood.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\admin\\usuarioviews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\admin\\usuarioviews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6FC48234-E924-4BB3-9814-6B9F69DB07CE}|pruebascajemesfood\\pruebascajemesfood.csproj|c:\\users\\melan\\downloads\\integradorreturns\\pruebascajemesfood\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC48234-E924-4BB3-9814-6B9F69DB07CE}|pruebascajemesfood\\pruebascajemesfood.csproj|solutionrelative:pruebascajemesfood\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FC48234-E924-4BB3-9814-6B9F69DB07CE}|pruebascajemesfood\\pruebascajemesfood.csproj|c:\\users\\melan\\downloads\\integradorreturns\\pruebascajemesfood\\usuariotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FC48234-E924-4BB3-9814-6B9F69DB07CE}|pruebascajemesfood\\pruebascajemesfood.csproj|solutionrelative:pruebascajemesfood\\usuariotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FC48234-E924-4BB3-9814-6B9F69DB07CE}|pruebascajemesfood\\pruebascajemesfood.csproj|c:\\users\\melan\\downloads\\integradorreturns\\pruebascajemesfood\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FC48234-E924-4BB3-9814-6B9F69DB07CE}|pruebascajemesfood\\pruebascajemesfood.csproj|solutionrelative:pruebascajemesfood\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FC48234-E924-4BB3-9814-6B9F69DB07CE}|pruebascajemesfood\\pruebascajemesfood.csproj|c:\\users\\melan\\downloads\\integradorreturns\\pruebascajemesfood\\carritotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC48234-E924-4BB3-9814-6B9F69DB07CE}|pruebascajemesfood\\pruebascajemesfood.csproj|solutionrelative:pruebascajemesfood\\carritotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\carrito\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\carrito\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\mantenedor\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\mantenedor\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\controllers\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\controllers\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\mantenedor\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\mantenedor\\guardar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\mantenedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\mantenedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\carrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\carrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\carrito\\listarcompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\carrito\\listarcompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> Stashed changes
-      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FC48234-E924-4BB3-9814-6B9F69DB07CE}|pruebascajemesfood\\pruebascajemesfood.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\pruebascajemesfood\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FC48234-E924-4BB3-9814-6B9F69DB07CE}|pruebascajemesfood\\pruebascajemesfood.csproj|solutionrelative:pruebascajemesfood\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-<<<<<<< Updated upstream
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\views\\mantenedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\mantenedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\views\\carrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\carrito\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\views\\carrito\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\carrito\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\controllers\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\controllers\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\views\\carrito\\listarcompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\carrito\\listarcompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\controllers\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\controllers\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\controllers\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\views\\admin\\usuarioviews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\admin\\usuarioviews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\admin\\usuarioviews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-=======
       "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
->>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\datos\\comprardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\datos\\comprardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\datos\\comprardatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\views\\mantenedor\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\mantenedor\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\views\\mantenedor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\mantenedor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\mantenedor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\views\\admin\\adminviews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\admin\\adminviews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\admin\\adminviews.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\datos\\authdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\datos\\authdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\datos\\authdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\datos\\admindatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\datos\\admindatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\datos\\admindatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\views\\admin\\guardaradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\admin\\guardaradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\admin\\guardaradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\views\\admin\\listaradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\admin\\listaradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\admin\\listaradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\views\\admin\\editaradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\views\\admin\\editaradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\views\\admin\\editaradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\models\\carritomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\models\\carritomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\models\\carritomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\controllers\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\controllers\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\controllers\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\models\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\models\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\models\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\tamarindo\\desktop\\cajemesfood\\integradorforever\\models\\comprarmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|c:\\users\\melan\\downloads\\integradorreturns\\integradorforever\\models\\comprarmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDA353A9-E9DE-40E5-82A0-933D3DD74EBF}|integradorforever\\integradorforever.csproj|solutionrelative:integradorforever\\models\\comprarmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -206,80 +166,120 @@
           "Children": [
             {
               "$type": "Document",
-<<<<<<< Updated upstream
               "DocumentIndex": 2,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\pruebascajemesfood\\Admin.cs",
-              "RelativeDocumentMoniker": "pruebascajemesfood\\Admin.cs",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\pruebascajemesfood\\Admin.cs",
-              "RelativeToolTip": "pruebascajemesfood\\Admin.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T22:38:46.912Z",
-              "EditorCaption": ""
-=======
-              "DocumentIndex": 4,
-              "Title": "pruebascajemesfood.csproj",
-              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\pruebascajemesfood\\pruebascajemesfood.csproj",
-              "RelativeDocumentMoniker": "pruebascajemesfood\\pruebascajemesfood.csproj",
-              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\pruebascajemesfood\\pruebascajemesfood.csproj",
-              "RelativeToolTip": "pruebascajemesfood\\pruebascajemesfood.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-16T00:01:24.862Z",
-              "IsPinned": true
->>>>>>> Stashed changes
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-<<<<<<< Updated upstream
-              "Title": "usuariotest.cs",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\pruebascajemesfood\\usuariotest.cs",
-              "RelativeDocumentMoniker": "pruebascajemesfood\\usuariotest.cs",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\pruebascajemesfood\\usuariotest.cs",
-              "RelativeToolTip": "pruebascajemesfood\\usuariotest.cs",
-              "ViewState": "AgIAAKkAAAAAAAAAAAAmwLUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T22:37:43.323Z",
-=======
               "Title": "carritotest.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\pruebascajemesfood\\carritotest.cs",
               "RelativeDocumentMoniker": "pruebascajemesfood\\carritotest.cs",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\pruebascajemesfood\\carritotest.cs",
               "RelativeToolTip": "pruebascajemesfood\\carritotest.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAGIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T03:43:10.797Z",
->>>>>>> Stashed changes
+              "WhenOpened": "2024-11-18T06:36:29.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 3,
-=======
-              "DocumentIndex": 14,
-              "Title": "Gracias.cshtml",
-              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\Gracias.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\Home\\Gracias.cshtml",
-              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\Gracias.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\Home\\Gracias.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\pruebascajemesfood\\Admin.cs",
+              "RelativeDocumentMoniker": "pruebascajemesfood\\Admin.cs",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\pruebascajemesfood\\Admin.cs",
+              "RelativeToolTip": "pruebascajemesfood\\Admin.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAAAK0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:35:24.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "usuariotest.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\pruebascajemesfood\\usuariotest.cs",
+              "RelativeDocumentMoniker": "pruebascajemesfood\\usuariotest.cs",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\pruebascajemesfood\\usuariotest.cs",
+              "RelativeToolTip": "pruebascajemesfood\\usuariotest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:35:24.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "carrito.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\carrito.cs",
+              "RelativeDocumentMoniker": "integradorforever\\Controllers\\carrito.cs",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\carrito.cs",
+              "RelativeToolTip": "integradorforever\\Controllers\\carrito.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAD4AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:35:24.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Carrito.cshtml",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\carrito\\Carrito.cshtml",
+              "RelativeDocumentMoniker": "integradorforever\\Views\\carrito\\Carrito.cshtml",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\carrito\\Carrito.cshtml",
+              "RelativeToolTip": "integradorforever\\Views\\carrito\\Carrito.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T15:17:27.23Z"
+              "WhenOpened": "2024-11-17T20:35:24.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\carrito\\Index.cshtml",
+              "RelativeDocumentMoniker": "integradorforever\\Views\\carrito\\Index.cshtml",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\carrito\\Index.cshtml",
+              "RelativeToolTip": "integradorforever\\Views\\carrito\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAABBwBYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T20:35:24.938Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Mantenedor\\Index.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\Mantenedor\\Index.cshtml",
-              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Mantenedor\\Index.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\Mantenedor\\Index.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\appsettings.json",
+              "RelativeDocumentMoniker": "integradorforever\\appsettings.json",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\appsettings.json",
+              "RelativeToolTip": "integradorforever\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-17T20:35:24.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "integradorforever\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "integradorforever\\Views\\Admin\\Login.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T14:47:50.832Z"
+              "WhenOpened": "2024-11-17T20:35:25.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "integradorforever\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "integradorforever\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T20:35:24.998Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -289,283 +289,40 @@
               "RelativeDocumentMoniker": "integradorforever\\Program.cs",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Program.cs",
               "RelativeToolTip": "integradorforever\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBQAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T14:59:15.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "carrito.cs",
-              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\carrito.cs",
-              "RelativeDocumentMoniker": "integradorforever\\Controllers\\carrito.cs",
-              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\carrito.cs",
-              "RelativeToolTip": "integradorforever\\Controllers\\carrito.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAiwDIAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T15:17:34.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
->>>>>>> Stashed changes
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Mantenedor\\Index.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\Mantenedor\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Mantenedor\\Index.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\Mantenedor\\Index.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T14:47:50.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Program.cs",
-              "RelativeDocumentMoniker": "integradorforever\\Program.cs",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Program.cs",
-              "RelativeToolTip": "integradorforever\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T14:59:15.151Z",
+              "WhenOpened": "2024-11-17T20:35:24.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "carrito.cs",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Controllers\\carrito.cs",
-              "RelativeDocumentMoniker": "integradorforever\\Controllers\\carrito.cs",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Controllers\\carrito.cs",
-              "RelativeToolTip": "integradorforever\\Controllers\\carrito.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAADoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T15:17:34.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Carrito.cshtml",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\carrito\\Carrito.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\carrito\\Carrito.cshtml",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\carrito\\Carrito.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\carrito\\Carrito.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Guardar.cshtml",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Mantenedor\\Guardar.cshtml",
+              "RelativeDocumentMoniker": "integradorforever\\Views\\Mantenedor\\Guardar.cshtml",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Mantenedor\\Guardar.cshtml",
+              "RelativeToolTip": "integradorforever\\Views\\Mantenedor\\Guardar.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T15:27:33.418Z"
+              "WhenOpened": "2024-11-17T21:28:18.445Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\carrito\\Index.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\carrito\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\carrito\\Index.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\carrito\\Index.cshtml",
-              "ViewState": "AgIAAKAAAAAAAAAAAAAAAKsAAAAKAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Mantenedor\\Index.cshtml",
+              "RelativeDocumentMoniker": "integradorforever\\Views\\Mantenedor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Mantenedor\\Index.cshtml",
+              "RelativeToolTip": "integradorforever\\Views\\Mantenedor\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAABBwAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T05:37:38.048Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 12,
-              "Title": "menu.cshtml",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Home\\menu.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\Home\\menu.cshtml",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Home\\menu.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\Home\\menu.cshtml",
-              "ViewState": "AgIAAFsAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T05:51:26.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Home\\Privacy.cshtml",
-=======
-              "DocumentIndex": 5,
-              "Title": "usuarioviews.cshtml",
-              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Admin\\usuarioviews.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\Admin\\usuarioviews.cshtml",
-              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Admin\\usuarioviews.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\Admin\\usuarioviews.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T14:46:06.223Z"
+              "WhenOpened": "2024-11-17T20:35:24.918Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\pruebascajemesfood\\Admin.cs",
-              "RelativeDocumentMoniker": "pruebascajemesfood\\Admin.cs",
-              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\pruebascajemesfood\\Admin.cs",
-              "RelativeToolTip": "pruebascajemesfood\\Admin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T00:05:29.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "usuariotest.cs",
-              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\pruebascajemesfood\\usuariotest.cs",
-              "RelativeDocumentMoniker": "pruebascajemesfood\\usuariotest.cs",
-              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\pruebascajemesfood\\usuariotest.cs",
-              "RelativeToolTip": "pruebascajemesfood\\usuariotest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T00:06:14.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Carrito.cshtml",
-              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\carrito\\Carrito.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\carrito\\Carrito.cshtml",
-              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\carrito\\Carrito.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\carrito\\Carrito.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T15:27:33.418Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "menu.cshtml",
-              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\menu.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\Home\\menu.cshtml",
-              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\menu.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\Home\\menu.cshtml",
-              "ViewState": "AgIAAFsAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T05:51:26.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\Privacy.cshtml",
->>>>>>> Stashed changes
-              "RelativeToolTip": "integradorforever\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T16:30:17.171Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 9,
-              "Title": "usuarioviews.cshtml",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Admin\\usuarioviews.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\Admin\\usuarioviews.cshtml",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Admin\\usuarioviews.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\Admin\\usuarioviews.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T14:46:06.223Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Controllers\\Admin.cs",
-              "RelativeDocumentMoniker": "integradorforever\\Controllers\\Admin.cs",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Controllers\\Admin.cs",
-              "RelativeToolTip": "integradorforever\\Controllers\\Admin.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAABBwGgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T16:20:13.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-=======
-              "DocumentIndex": 11,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\Admin.cs",
-              "RelativeDocumentMoniker": "integradorforever\\Controllers\\Admin.cs",
-              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\Admin.cs",
-              "RelativeToolTip": "integradorforever\\Controllers\\Admin.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAABBwGgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T16:20:13.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
->>>>>>> Stashed changes
-              "Title": "Listarcompra.cshtml",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\carrito\\Listarcompra.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\carrito\\Listarcompra.cshtml",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\carrito\\Listarcompra.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\carrito\\Listarcompra.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T15:16:15.759Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 13,
-=======
-              "DocumentIndex": 16,
->>>>>>> Stashed changes
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T15:11:52.938Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 11,
-=======
-              "DocumentIndex": 13,
->>>>>>> Stashed changes
-              "Title": "admin.cshtml",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Home\\admin.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\Home\\admin.cshtml",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Home\\admin.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\Home\\admin.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T15:11:45.794Z"
-<<<<<<< Updated upstream
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Listar.cshtml",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Mantenedor\\Listar.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\Mantenedor\\Listar.cshtml",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Mantenedor\\Listar.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\Mantenedor\\Listar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T15:11:08.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-=======
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
               "Title": "Listar.cshtml",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Mantenedor\\Listar.cshtml",
               "RelativeDocumentMoniker": "integradorforever\\Views\\Mantenedor\\Listar.cshtml",
@@ -573,180 +330,168 @@
               "RelativeToolTip": "integradorforever\\Views\\Mantenedor\\Listar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T15:11:08.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
->>>>>>> Stashed changes
-              "Title": "Comprardatos.cs",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Datos\\Comprardatos.cs",
-              "RelativeDocumentMoniker": "integradorforever\\Datos\\Comprardatos.cs",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Datos\\Comprardatos.cs",
-              "RelativeToolTip": "integradorforever\\Datos\\Comprardatos.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAABBwE0AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T15:18:57.04Z"
-<<<<<<< Updated upstream
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\appsettings.json",
-              "RelativeDocumentMoniker": "integradorforever\\appsettings.json",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\appsettings.json",
-              "RelativeToolTip": "integradorforever\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-21T14:50:45.155Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-=======
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\appsettings.json",
-              "RelativeDocumentMoniker": "integradorforever\\appsettings.json",
-              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\appsettings.json",
-              "RelativeToolTip": "integradorforever\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-21T14:50:45.155Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
->>>>>>> Stashed changes
-              "Title": "Editar.cshtml",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Mantenedor\\Editar.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\Mantenedor\\Editar.cshtml",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Mantenedor\\Editar.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\Mantenedor\\Editar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T15:12:12.651Z"
-<<<<<<< Updated upstream
+              "WhenOpened": "2024-11-17T20:35:24.973Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAABBwBkAAACHAAAAAAAAAA==",
+              "Title": "menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\menu.cshtml",
+              "RelativeDocumentMoniker": "integradorforever\\Views\\Home\\menu.cshtml",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\menu.cshtml",
+              "RelativeToolTip": "integradorforever\\Views\\Home\\menu.cshtml",
+              "ViewState": "AgIAAFkAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T17:44:46.201Z"
+              "WhenOpened": "2024-11-17T20:35:24.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "integradorforever\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "integradorforever\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T20:35:24.948Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Auth.cs",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Controllers\\Auth.cs",
-              "RelativeDocumentMoniker": "integradorforever\\Controllers\\Auth.cs",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Controllers\\Auth.cs",
-              "RelativeToolTip": "integradorforever\\Controllers\\Auth.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAABBwB4AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T16:19:14.491Z"
+              "Title": "usuarioviews.cshtml",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Admin\\usuarioviews.cshtml",
+              "RelativeDocumentMoniker": "integradorforever\\Views\\Admin\\usuarioviews.cshtml",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Admin\\usuarioviews.cshtml",
+              "RelativeToolTip": "integradorforever\\Views\\Admin\\usuarioviews.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T20:35:24.952Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-=======
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\Admin.cs",
+              "RelativeDocumentMoniker": "integradorforever\\Controllers\\Admin.cs",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\Admin.cs",
+              "RelativeToolTip": "integradorforever\\Controllers\\Admin.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAABRwGgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:35:24.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Listarcompra.cshtml",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\carrito\\Listarcompra.cshtml",
+              "RelativeDocumentMoniker": "integradorforever\\Views\\carrito\\Listarcompra.cshtml",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\carrito\\Listarcompra.cshtml",
+              "RelativeToolTip": "integradorforever\\Views\\carrito\\Listarcompra.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T20:35:24.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "integradorforever\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "integradorforever\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T20:35:24.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\admin.cshtml",
+              "RelativeDocumentMoniker": "integradorforever\\Views\\Home\\admin.cshtml",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Home\\admin.cshtml",
+              "RelativeToolTip": "integradorforever\\Views\\Home\\admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T20:35:24.967Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
+              "Title": "Comprardatos.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Datos\\Comprardatos.cs",
+              "RelativeDocumentMoniker": "integradorforever\\Datos\\Comprardatos.cs",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Datos\\Comprardatos.cs",
+              "RelativeToolTip": "integradorforever\\Datos\\Comprardatos.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAABRwE0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:35:24.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Mantenedor\\Editar.cshtml",
+              "RelativeDocumentMoniker": "integradorforever\\Views\\Mantenedor\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Mantenedor\\Editar.cshtml",
+              "RelativeToolTip": "integradorforever\\Views\\Mantenedor\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T20:35:24.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "integradorforever\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "integradorforever\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAABBwBkAAACHAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAABRwBkAAACHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T17:44:46.201Z"
+              "WhenOpened": "2024-11-17T20:35:24.989Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Auth.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\Auth.cs",
               "RelativeDocumentMoniker": "integradorforever\\Controllers\\Auth.cs",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\Auth.cs",
               "RelativeToolTip": "integradorforever\\Controllers\\Auth.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAABBwB4AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAABRwB4AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T16:19:14.491Z"
+              "WhenOpened": "2024-11-17T20:35:24.992Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
->>>>>>> Stashed changes
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Auth\\Login.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\Auth\\Login.cshtml",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Auth\\Login.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\Auth\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T16:47:50.537Z"
-            },
-            {
-              "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 19,
-=======
-              "DocumentIndex": 22,
->>>>>>> Stashed changes
+              "DocumentIndex": 23,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "integradorforever\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\HomeController.cs",
               "RelativeToolTip": "integradorforever\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwCgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T16:00:49.452Z"
-<<<<<<< Updated upstream
+              "WhenOpened": "2024-11-17T20:35:25.001Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Listaradmin.cshtml",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Admin\\Listaradmin.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\Admin\\Listaradmin.cshtml",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Admin\\Listaradmin.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\Admin\\Listaradmin.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T15:02:21.134Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Models\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "integradorforever\\Models\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Models\\LoginViewModel.cs",
-              "RelativeToolTip": "integradorforever\\Models\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T16:28:51.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-=======
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "Listaradmin.cshtml",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Admin\\Listaradmin.cshtml",
               "RelativeDocumentMoniker": "integradorforever\\Views\\Admin\\Listaradmin.cshtml",
@@ -754,11 +499,12 @@
               "RelativeToolTip": "integradorforever\\Views\\Admin\\Listaradmin.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T15:02:21.134Z"
+              "WhenOpened": "2024-11-17T20:35:25.005Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Models\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "integradorforever\\Models\\LoginViewModel.cs",
@@ -766,150 +512,12 @@
               "RelativeToolTip": "integradorforever\\Models\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T16:28:51.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
->>>>>>> Stashed changes
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Admin\\Login.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\Admin\\Login.cshtml",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Admin\\Login.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\Admin\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T16:49:10.16Z"
-<<<<<<< Updated upstream
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "AuthDatos.cs",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Datos\\AuthDatos.cs",
-              "RelativeDocumentMoniker": "integradorforever\\Datos\\AuthDatos.cs",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Datos\\AuthDatos.cs",
-              "RelativeToolTip": "integradorforever\\Datos\\AuthDatos.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T16:04:18.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "adminviews.cshtml",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Admin\\adminviews.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\Admin\\adminviews.cshtml",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Admin\\adminviews.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\Admin\\adminviews.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T14:44:53.623Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Editaradmin.cshtml",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Admin\\Editaradmin.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\Admin\\Editaradmin.cshtml",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Admin\\Editaradmin.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\Admin\\Editaradmin.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T16:42:29.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Admindatos.cs",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Datos\\Admindatos.cs",
-              "RelativeDocumentMoniker": "integradorforever\\Datos\\Admindatos.cs",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Datos\\Admindatos.cs",
-              "RelativeToolTip": "integradorforever\\Datos\\Admindatos.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAABBwIMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T15:20:17.65Z"
+              "WhenOpened": "2024-11-17T20:35:25.009Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "Guardaradmin.cshtml",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Admin\\Guardaradmin.cshtml",
-              "RelativeDocumentMoniker": "integradorforever\\Views\\Admin\\Guardaradmin.cshtml",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Views\\Admin\\Guardaradmin.cshtml",
-              "RelativeToolTip": "integradorforever\\Views\\Admin\\Guardaradmin.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T15:00:36.504Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "carritomodel.cs",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Models\\carritomodel.cs",
-              "RelativeDocumentMoniker": "integradorforever\\Models\\carritomodel.cs",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Models\\carritomodel.cs",
-              "RelativeToolTip": "integradorforever\\Models\\carritomodel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T15:27:38.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "conexion.cs",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Datos\\conexion.cs",
-              "RelativeDocumentMoniker": "integradorforever\\Datos\\conexion.cs",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Datos\\conexion.cs",
-              "RelativeToolTip": "integradorforever\\Datos\\conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T16:10:49.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Usuariomodel.cs",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Models\\Usuariomodel.cs",
-              "RelativeDocumentMoniker": "integradorforever\\Models\\Usuariomodel.cs",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Models\\Usuariomodel.cs",
-              "RelativeToolTip": "integradorforever\\Models\\Usuariomodel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T16:08:21.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "producto.cs",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Controllers\\producto.cs",
-              "RelativeDocumentMoniker": "integradorforever\\Controllers\\producto.cs",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Controllers\\producto.cs",
-              "RelativeToolTip": "integradorforever\\Controllers\\producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T15:21:16.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Adminmodel.cs",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Models\\Adminmodel.cs",
-              "RelativeDocumentMoniker": "integradorforever\\Models\\Adminmodel.cs",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Models\\Adminmodel.cs",
-              "RelativeToolTip": "integradorforever\\Models\\Adminmodel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T15:27:44.705Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-=======
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
               "Title": "AuthDatos.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Datos\\AuthDatos.cs",
               "RelativeDocumentMoniker": "integradorforever\\Datos\\AuthDatos.cs",
@@ -917,11 +525,12 @@
               "RelativeToolTip": "integradorforever\\Datos\\AuthDatos.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T16:04:18.218Z"
+              "WhenOpened": "2024-11-17T20:35:25.018Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "adminviews.cshtml",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Admin\\adminviews.cshtml",
               "RelativeDocumentMoniker": "integradorforever\\Views\\Admin\\adminviews.cshtml",
@@ -929,11 +538,12 @@
               "RelativeToolTip": "integradorforever\\Views\\Admin\\adminviews.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-22T14:44:53.623Z"
+              "WhenOpened": "2024-11-17T20:35:25.022Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "Editaradmin.cshtml",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Admin\\Editaradmin.cshtml",
               "RelativeDocumentMoniker": "integradorforever\\Views\\Admin\\Editaradmin.cshtml",
@@ -941,23 +551,25 @@
               "RelativeToolTip": "integradorforever\\Views\\Admin\\Editaradmin.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T16:42:29.212Z"
+              "WhenOpened": "2024-11-17T20:35:25.026Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "Admindatos.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Datos\\Admindatos.cs",
               "RelativeDocumentMoniker": "integradorforever\\Datos\\Admindatos.cs",
               "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Datos\\Admindatos.cs",
               "RelativeToolTip": "integradorforever\\Datos\\Admindatos.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAABBwIMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwIMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T15:20:17.65Z"
+              "WhenOpened": "2024-11-17T20:35:25.031Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "Guardaradmin.cshtml",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Views\\Admin\\Guardaradmin.cshtml",
               "RelativeDocumentMoniker": "integradorforever\\Views\\Admin\\Guardaradmin.cshtml",
@@ -965,11 +577,12 @@
               "RelativeToolTip": "integradorforever\\Views\\Admin\\Guardaradmin.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-21T15:00:36.504Z"
+              "WhenOpened": "2024-11-17T20:35:25.035Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "carritomodel.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Models\\carritomodel.cs",
               "RelativeDocumentMoniker": "integradorforever\\Models\\carritomodel.cs",
@@ -977,11 +590,12 @@
               "RelativeToolTip": "integradorforever\\Models\\carritomodel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T15:27:38.441Z"
+              "WhenOpened": "2024-11-17T20:35:25.039Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "conexion.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Datos\\conexion.cs",
               "RelativeDocumentMoniker": "integradorforever\\Datos\\conexion.cs",
@@ -989,11 +603,12 @@
               "RelativeToolTip": "integradorforever\\Datos\\conexion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T16:10:49.722Z"
+              "WhenOpened": "2024-11-17T20:35:25.043Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "Usuariomodel.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Models\\Usuariomodel.cs",
               "RelativeDocumentMoniker": "integradorforever\\Models\\Usuariomodel.cs",
@@ -1001,11 +616,12 @@
               "RelativeToolTip": "integradorforever\\Models\\Usuariomodel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T16:08:21.415Z"
+              "WhenOpened": "2024-11-17T20:35:25.047Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "producto.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Controllers\\producto.cs",
               "RelativeDocumentMoniker": "integradorforever\\Controllers\\producto.cs",
@@ -1013,11 +629,12 @@
               "RelativeToolTip": "integradorforever\\Controllers\\producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T15:21:16.007Z"
+              "WhenOpened": "2024-11-17T20:35:25.051Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "Adminmodel.cs",
               "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Models\\Adminmodel.cs",
               "RelativeDocumentMoniker": "integradorforever\\Models\\Adminmodel.cs",
@@ -1025,33 +642,21 @@
               "RelativeToolTip": "integradorforever\\Models\\Adminmodel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T15:27:44.705Z"
+              "WhenOpened": "2024-11-17T20:35:25.055Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
->>>>>>> Stashed changes
+              "DocumentIndex": 37,
               "Title": "comprarmodel.cs",
-              "DocumentMoniker": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Models\\comprarmodel.cs",
+              "DocumentMoniker": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Models\\comprarmodel.cs",
               "RelativeDocumentMoniker": "integradorforever\\Models\\comprarmodel.cs",
-              "ToolTip": "C:\\Users\\tamarindo\\Desktop\\Cajemesfood\\integradorforever\\Models\\comprarmodel.cs",
+              "ToolTip": "C:\\Users\\melan\\Downloads\\integradorreturns\\integradorforever\\Models\\comprarmodel.cs",
               "RelativeToolTip": "integradorforever\\Models\\comprarmodel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T15:27:46.914Z"
-<<<<<<< Updated upstream
-            }
-          ]
-        },
-        {
-          "DockedWidth": 16,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-=======
->>>>>>> Stashed changes
+              "WhenOpened": "2024-11-17T20:35:25.059Z",
+              "EditorCaption": ""
             }
           ]
         }
